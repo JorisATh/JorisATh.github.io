@@ -85,8 +85,8 @@ author:
   bio              : "PhD Candidate at ICS-University of Lisbon in Comparative Politics and Visiting Scholar at Texas A&M University, Fall 2023. Studies coalition governance in presidential systems."
   location         : "College Station, TX and Lisbon, Portugal"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : "joris.thijm@ics.ulisboa.pt"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
