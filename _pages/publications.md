@@ -7,7 +7,7 @@ author_profile: true
 
 Published
 ------
-Alberdingk Thijm, Joris, Ana Espírito Santo and Sofia Serra da Silva. 2021. Ramondt-Hirschmann, Cornelia. In *Dicionário das Mulheres e a Unidade da Europa*, eds. Isabel Baltazar, Alice Cunha e Isabel Lousada. Lisbon: Assembleia da República. Pp. 265-69.
+Alberdingk Thijm, Joris, Ana Espírito Santo and Sofia Serra da Silva. 2021. Ramondt-Hirschmann, Cornelia. In *Dicionário das Mulheres e a Unidade da Europa*, eds. Isabel Baltazar, Alice Cunha and Isabel Lousada. Lisbon: Assembleia da República. Pp. 265-69.
 
 Under review
 ------
