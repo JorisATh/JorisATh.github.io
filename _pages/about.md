@@ -12,4 +12,4 @@ I am a PoliSci PhD Candidate at [ICS-ULisboa](https://www.ics.ulisboa.pt/pessoa/
 
 Aside from the research for my thesis, I am pursuing a second line of research in which I apply qualitative data analysis (QDA) to Brazilian politics.
 
-I am currently (Fall 2023) spending a semester as a visiting scholar at Texas A&M University.
+I am currently (Fall 2023) spending a semester abroad as a visiting scholar at Texas A&M University.
