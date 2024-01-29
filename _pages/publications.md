@@ -11,7 +11,7 @@ Serra da Silva, Sofia, Ana Espírito Santo and **Joris Alberdingk Thijm**. 2021.
 
 Accepted
 ------
-**Alberdingk Thijm, Joris**. "Coalition governance under separation of powers: Shadowing by committee in coalitional presidentialism." (Conditionally accepted, Legislative Studies Quarterly)
+**Alberdingk Thijm, Joris**. "Coalition governance under separation of powers: Shadowing by committee in coalitional presidentialism." (forthcoming, Legislative Studies Quarterly)
 
 Under review
 ------
