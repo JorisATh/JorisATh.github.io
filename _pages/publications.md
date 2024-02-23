@@ -7,11 +7,9 @@ author_profile: true
 
 Published
 ------
-Serra da Silva, Sofia, Ana Espírito Santo and **Joris Alberdingk Thijm**. 2021. Ramondt-Hirschmann, Cornelia. In *Dicionário das Mulheres e a Unidade da Europa*, eds. Isabel Baltazar, Alice Cunha and Isabel Lousada. Lisbon: Assembleia da República. Pp. 265-69.
+**Alberdingk Thijm, J.** (2024), Coalition Governance under Separation of Powers: Shadowing by Committee in Coalitional Presidentialism. Legislative Studies Quarterly. https://doi.org/10.1111/lsq.12451
 
-Accepted
-------
-**Alberdingk Thijm, Joris**. "Coalition governance under separation of powers: Shadowing by committee in coalitional presidentialism." (forthcoming, Legislative Studies Quarterly)
+Serra da Silva, Sofia, Ana Espírito Santo and **Joris Alberdingk Thijm**. 2021. Ramondt-Hirschmann, Cornelia. In *Dicionário das Mulheres e a Unidade da Europa*, eds. Isabel Baltazar, Alice Cunha and Isabel Lousada. Lisbon: Assembleia da República. Pp. 265-69.
 
 Under review
 ------
